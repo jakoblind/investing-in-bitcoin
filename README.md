@@ -1,5 +1,5 @@
 # How to invest in Bitcoin
-This document is for people who are interested in investing in Bitcoin but don't know where to get started. This document is WIP
+These are my personal opinions and is not financial advice. This document is WIP.
 
 ## How to buy and store
 ### Choose an exchange for buying
